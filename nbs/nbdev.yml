@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_testing"
+  site-url: "https://mineshkumar.github.io/nbdev_testing"
+  description: "Tetsing the nbdev package to evaluate its benefits in the context of software development"
+  repo-branch: main
+  repo-url: "https://github.com/mineshkumar/nbdev_testing"
